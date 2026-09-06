@@ -11,8 +11,6 @@ I like tackling problems where theoretical rigor meets execution.
 * [**motion_detection**](https://github.com/RebornFlamme/motion_detection) — Sub-pixel air/water interface tracking from video with GUM-compliant uncertainties and publication-ready plots.
 * [**claude-excalidraw**](https://github.com/RebornFlamme/claude-excalidraw) — Render Excalidraw drawings as images for previewing, sharing, and embedding in agent workflows.
 
----
-
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,7 +27,6 @@ I like tackling problems where theoretical rigor meets execution.
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
----
 
 ### Reach me
 
