@@ -6,6 +6,7 @@ I like tackling problems where theoretical rigor meets execution.
 
 ### Selected repositories
 
+* [**dqd-autotuning**](https://github.com/RebornFlamme/dqd-autotuning) — Spin qubits: automated interdot detection and contrast optimisation for a carbon-nanotube double quantum dot (matched line filter + U-Net, virtual gates) - 🥈 *2nd place, QuantX × C12 hackathon*.
 * [**dpmm**](https://github.com/RebornFlamme/dpmm) — Streaming Dirichlet Process Mixture Model: automatic cluster inference via collapsed/blocked Gibbs sampling, split–merge MCMC moves, and time-weighted sufficient statistics for concept drift.
 * [**Athena**](https://github.com/RebornFlamme/Athena) — Multi-agent platform from the Raise Summit hackathon - 🥈 *2nd place, Raise Summit Hackathon (Google DeepMind track)*.
 * [**motion_detection**](https://github.com/RebornFlamme/motion_detection) — Sub-pixel air/water interface tracking from video with GUM-compliant uncertainties and publication-ready plots.
